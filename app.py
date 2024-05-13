@@ -16,7 +16,7 @@ app.secret_key = 'your_secret_key_here'  # Set a secure secret key for session m
 db_config = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'Svp@0906.me',
+    'password': 'This_contains_your_password',
     'database': 'aes_project',
 }
 
